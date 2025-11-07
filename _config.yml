@@ -114,19 +114,19 @@ analytics:
 # Site Author
 author:
   name             : "Marc LIN"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/marclin.jpg"
   bio              : "Currently last year student at Ecole Centrale de Lille, majoring in data science and AI"
   location         : "Paris, Lille, France"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:marc.lin.lille@email.com"
+      url: "mailto:marc.lin.lille@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-    - label: "GitHub"
+    - label: "GitHub"s
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/mmarclin"
+      url: "https://github.com/mmarclin"
 
 # Site Footer
 footer:
