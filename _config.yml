@@ -19,7 +19,7 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Marc Lin"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Home"
 name                     : "Marc LIN"
 description              : "data scientist, machine learning, etc..."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -115,9 +115,9 @@ analytics:
 author:
   name             : "Marc LIN"
   avatar           : "/assets/images/marclin.jpg"
-  bio              : "Currently last year student at Ecole Centrale de Lille, majoring in data science and AI"
+  bio              : "Currently last year student <br> at Ecole Centrale de Lille, <br> majoring in data science and AI <br>"
   location         : "Paris, Lille, France"
-  email            : "mailto:marc.lin.lille@gmail.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
